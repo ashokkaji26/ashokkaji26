@@ -10,6 +10,8 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" >
 </div>
 
+# about me
+
 
 <!--
 **ashokkaji26/ashokkaji26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
