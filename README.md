@@ -7,7 +7,7 @@
 <h3 align="center"> Sophomore at IIIT Lucknow, Computer Science. </h3>
 
 <div align="left"> 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0015.gif" width="100%" >
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" >
 </div>
 
 
