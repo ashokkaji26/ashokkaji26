@@ -11,8 +11,9 @@
 </div>
 
 ## About Me
-- this is
-* this 
+- 🧑‍💻 I'm a sophomore at  **IIIT Lucknow studying computer science**
+
+- 
 
 
 
