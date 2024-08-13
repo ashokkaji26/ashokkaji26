@@ -21,6 +21,14 @@
 
 - 📩 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ashokkaji77@gmail.com" style="text-decoration: none;"> Email </a>
 
+<div align="left"> 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" >
+</div>
+
+## 💻 Tech Stacks: 
+![C](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+
+
 
 
 <!--
