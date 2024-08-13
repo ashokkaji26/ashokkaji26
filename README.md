@@ -13,7 +13,13 @@
 ## About Me
 - 🧑‍💻 I'm a sophomore at  **IIIT Lucknow studying computer science**
 
-- 
+- - 👯 I’m looking to collaborate on **Frontend Web Development Projects**
+
+- 🌱 I’m currently learning **Competitive Programming**
+
+- 🤔 I’m looking for help with **Open Source**
+
+- Feel free to reach out to me here: <a href=""
 
 
 
