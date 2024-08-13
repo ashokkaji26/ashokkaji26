@@ -51,6 +51,13 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" >
 </div>
 
+## <h4> 📬 Reach me out </h4>
+
+<div align="left">
+<a href = "https://www.linkedin.com/in/ashok-kaji-3a01171a5/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</div>
+
+
 
 
 
