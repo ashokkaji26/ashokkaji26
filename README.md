@@ -13,11 +13,11 @@
 ## About Me
 - 🧑‍💻 I'm a sophomore at  **IIIT Lucknow studying computer science**
 
--  👯 I’m looking to collaborate on **Frontend Web Development Projects**
+-  👯 I’m looking to collaborate on **Full Stack Web Development Projects**
 
-- 🌱 I’m currently learning **Competitive Programming**
+- 🌱 I’m currently practicing **Competitive Programming**
 
-- 🤔 I’m looking for help with **Open Source**
+- 🤔 Contributing to  **Open Source**
 
 - 📩 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=ashokkaji77@gmail.com" style="text-decoration: none;"> Email </a>
 
