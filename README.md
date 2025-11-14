@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Create+Code+Connect...)](https://git.io/typing-svg)
 
 <!-- colorful horizontal line -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" >
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Horizontal line">
 </div>
 
 <!-- About Me -->
